@@ -1,4 +1,4 @@
-# Final Year Project
+# Stock Price Predictor
 
 ## Project Overview
 
@@ -37,8 +37,8 @@ pip install tensorflow
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/divine-amakor/Final-Year-Project.git
-    cd Final-Year-Project
+    git clone https://github.com/divine-amakor/Stock-Price-Predictor.git
+    cd Stock-Price-Predictor
     ```
 
 2.  **Install Dependencies:**
